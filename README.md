@@ -13,6 +13,7 @@ Format:
 
 `sbt fmt`
 
+
 Then run the tests and coverage report:
 
 `sbt clean coverage test coverageReport`
